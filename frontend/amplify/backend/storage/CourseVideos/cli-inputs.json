@@ -1,0 +1,16 @@
+{
+  "resourceName": "CourseVideos",
+  "policyUUID": "d795eb12",
+  "bucketName": "elearning464ce9e783384585b51900de61d2d1cc",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
