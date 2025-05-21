@@ -25,3 +25,13 @@
 ## Architecture
 
 ![Serverless Architecture](./architecture.png)
+
+## Benefits
+
+- Agility
+- Elasticity
+- Deploy globally in minutes
+- Cost Savings - Pay only for what services we use.
+- Complete control over the granularity of the application
+- Since it’s loosely coupled, the functionalities can be reused.
+- Provides scalability and high availability.
