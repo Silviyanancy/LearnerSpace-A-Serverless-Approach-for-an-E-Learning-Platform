@@ -24,7 +24,7 @@
 
 ## Architecture
 
-![Serverless Architecture](./architecture.png)
+![Serverless Architecture](./model.png)
 
 ## Benefits
 
