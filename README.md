@@ -35,3 +35,8 @@
 - Complete control over the granularity of the application
 - Since it’s loosely coupled, the functionalities can be reused.
 - Provides scalability and high availability.
+
+## References
+
+https://manojf.medium.com/implementing-a-secure-backend-on-aws-e873cc7b03cb
+https://www.youtube.com/watch?v=VcwJoCYrPqA
